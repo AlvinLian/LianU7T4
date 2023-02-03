@@ -41,9 +41,15 @@ public class Airport
     {
         int numOfPassengers = 0;
         for(int i = allFlights.size() - 1; i >= 0; i--) {
-            Flight currentFlight = new Flight(allFlights.get(i));
+            Flight currentFlight = allFlights.get(i);
+            int twentyPercent = (int)(currentFlight.getCapacity() * 0.2);
+            int passengers = currentFlight.getNumPassengers();
 
-            int
+            if(passengers < twentyPercent) {
+                numOfPassengers += passengers;
+                allFlights.remove(i);
+
+            }
         }
         return numOfPassengers;
     }

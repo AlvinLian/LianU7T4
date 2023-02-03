@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1028415f-e47f-410e-8074-86bc63e9ea09" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/Delimiters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DelimitersRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordScramble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordScrambleRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Airport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.AirportRunner">
+}</component>
+  <component name="RunManager" selected="Application.WordScrambleRunner">
     <configuration name="AirportRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AirportRunner" />
       <module name="LianU7T4" />
@@ -53,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordScrambleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordScrambleRunner" />
+      <module name="LianU7T4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordScrambleRunner" />
         <item itemvalue="Application.AirportRunner" />
         <item itemvalue="Application.GroceryStoreRunner" />
       </list>
