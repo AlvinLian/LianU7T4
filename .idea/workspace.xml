@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1028415f-e47f-410e-8074-86bc63e9ea09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LianU7T4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AirportRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroceryStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroceryStoreRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+    <list default="true" id="1028415f-e47f-410e-8074-86bc63e9ea09" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/src/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Airport.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675430620008</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1675434206015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675434206015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

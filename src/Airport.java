@@ -40,11 +40,10 @@ public class Airport
     public int updateFlights()
     {
         int numOfPassengers = 0;
-        for(Flight flight: allFlights) {
-            if(flight.getNumPassengers() < (0.2 * flight.getCapacity())) {
-                numOfPassengers += flight.getNumPassengers();
-                allFlights.remove(flight);
-            }
+        for(int i = allFlights.size() - 1; i >= 0; i--) {
+            Flight currentFlight = new Flight(allFlights.get(i));
+
+            int
         }
         return numOfPassengers;
     }
